@@ -1,0 +1,6 @@
+framework module ZFlutterUtils {
+  umbrella header "ZFlutterUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

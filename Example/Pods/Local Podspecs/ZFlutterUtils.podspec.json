@@ -1,0 +1,27 @@
+{
+  "name": "ZFlutterUtils",
+  "version": "0.1.0",
+  "summary": "A short description of ZFlutterUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gangtao.zhou/ZFlutterUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gangtao.zhou": "gangtao.zhou@ymm56.com"
+  },
+  "source": {
+    "git": "https://github.com/gangtao.zhou/ZFlutterUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZFlutterUtils/Classes/**/*",
+  "dependencies": {
+    "flutter_boost": [
+      "~> 0.0.1"
+    ]
+  }
+}

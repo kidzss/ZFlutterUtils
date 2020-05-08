@@ -1,0 +1,6 @@
+framework module Pods_ZFlutterUtils_Example {
+  umbrella header "Pods-ZFlutterUtils_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
