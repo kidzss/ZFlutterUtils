@@ -22,7 +22,7 @@ pod 'ZFlutterUtils'
 
 ## Author
 
-gangtao.zhou, gangtao.zhou@ymm56.com
+gangtao.zhou, kidzss
 
 ## License
 
